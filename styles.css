@@ -11,7 +11,7 @@
     border-radius: 50%;
     background-color: transparent;
     opacity: 100%;
-    animation: spin 10s linear infinite;
+    animation: spin 40s linear infinite;
 }
 @media (min-aspect-ratio: 1/1) {
     #circulo {
